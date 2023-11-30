@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Validate123",
+        "surname": "Surname",
+        "email": "NewName",
+        "password": "NewPas"
+    },
+    {
+        "name": "User2",
+        "surname": "Adminov",
+        "email": "Email",
+        "password": "Email"
+    },
+    {
+        "name": "123",
+        "surname": "123",
+        "email": "123",
+        "password": "123"
+    }
+]
